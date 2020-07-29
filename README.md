@@ -5,7 +5,7 @@ I created this app for additional learning with React Hooks, it consists of diff
 
 # Features
 - A Search component that uses Wikipedia's API to display results
-_ An Accordion that displays information from a given array
+- An Accordion that displays information from a given array
 
 
 # Built With
