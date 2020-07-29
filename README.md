@@ -9,4 +9,5 @@ I created this app for additional learning with React Hooks, it consists of diff
 
 
 # Built With
+- React
 - Axios and wikipedia's API
